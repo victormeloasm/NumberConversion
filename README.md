@@ -2,6 +2,8 @@
 
 This C program converts numbers from one number system to another. It supports a wide range of bases, from 2 to 36, allowing you to convert numbers using both digits and characters.
 
+It's a exercise from my professor @bernd-ulmann. In his words: Convert numbers from one number system into another one. The base b can be 2 <= b <= 36, so you can use 10 digits and 26 characters to represent numbers. Conversion should run from one given base into another one, so 11111111 in base 2 should be converted to 377 in base 8 etc.
+
 ## Features
 
 - Convert numbers from any base between 2 and 36.
